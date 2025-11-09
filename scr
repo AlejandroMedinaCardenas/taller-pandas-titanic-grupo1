@@ -1,1 +1,17 @@
 Esta carpeta contiene los scripts en Python utilizados para procesar, limpiar y analizar los datos del proyecto. Su función es separar el código principal del análisis para mantener el repositorio más organizado y facilitar la reutilización.
+
+# Base limpiada usando software externo: Excel
+
+## Comandos usados
+
+### Filtro: 
+- Seleccionar todas las filas con variable "edad" equivalente a "NaN"
+
+### Selección por condición:
+- Seleccionar todas las filas con variable "edad" mayor a 100
+
+### Eliminación:
+- Se eliminaron todas las filas que cumplan con esa condición
+
+## Resultado
+**Base de datos convertida de CSV a XLSX y lista para ser usada**
